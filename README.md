@@ -6,7 +6,7 @@ First we need to install git for version control.
 [Git Installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Install Slack
-Our team uses slack to communicate, so install slack onto your computer, and we recommend you install the slack app onto your mobile device as well. Go to [Tommy John's Slack Page](https://tjhq.slack.com) to set up an account with your Tommy John email address.
+Our team uses [Slack](https://slack.com) to communicate, so install Slack onto your computer, and we recommend you install the Slack app onto your mobile device as well. Go to [Tommy John's Slack Page](https://tjhq.slack.com) to set up an account with your Tommy John email address.
 
 ## Install NVM
 Some projects will require to run with an older version of node, so we will need NVM to switch between versions.
@@ -14,7 +14,7 @@ The best way to install would be to run the following command into your terminal
 ```shell
 curl https://raw.githubusercontent.com/creationix/nvm/v0.30.2/install.sh | bash
 ```
-The version of Node we will be using for Project Sail is 4.4.0, so use to following command to install it:
+The version of Node we will be using for Project Sail is 4.4.0, so use the following command to install it:
 
 ```shell
 nvm install 4.4.0
@@ -28,7 +28,7 @@ Install your text editor, terminal, config files, and/or any other tools you wil
 
 Some tools our devs have found useful include [iTerm](https://www.iterm2.com/) for streamlined terminal input, [nGrok](https://ngrok.com/) for local server tunneling to simplify mobile device testing, and [Emmet](https://emmet.io/) for faster markup coding.
 
-#### VIM
+##### VIM
 It is a good idea to get acquainted with VIM, not only for its optimized performance as compared to more bloated code editors like Atom or Code, but also to allow for more elaborate git commit messages across multiple lines, which will be required for certain workflows. A built in tutorial for VIM is included in MacOS terminal by running the command ```vimtutor```.
 
 ## Install Stencil
