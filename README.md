@@ -41,3 +41,4 @@ We will be using [Stencil](https://stencil.bigcommerce.com/), a BigCommerce fram
 * [Stencil Docs](https://stencil.bigcommerce.com/docs) - documentation for Stencil framework on BigCommerce website
 * [Sass Style Guide](https://github.com/bigcommerce/sass-style-guide) - BigCommerce style guide for Sass
 * [Front-end Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details) - Useful reference for Frontend Devs in 2017, made by Frontend Masters
+* [Emmet Cheatsheet](https://docs.emmet.io/cheatsheet-a5.pdf) - cheat sheet for Emmet toolkit for faster markup coding
