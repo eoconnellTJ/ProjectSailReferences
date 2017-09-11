@@ -26,6 +26,8 @@ Make a Github account specifically for the work you will be doing here at Tommy 
 ## Install Coding Environment
 Install your text editor, terminal, config files, and/or any other tools you will need for your coding workflow. Some viable options for a text editor include [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io), [Sublime Text](https://www.sublimetext.com/).
 
+Some tools our devs have found useful include [iTerm](https://www.iterm2.com/) for streamlined terminal input, [nGrok](https://ngrok.com/) for local server tunneling to simplify mobile device testing, and [Emmet](https://emmet.io/) for faster markup coding.
+
 #### VIM
 It is a good idea to get acquainted with VIM, not only for its optimized performance as compared to more bloated code editors like Atom or Code, but also to allow for more elaborate git commit messages across multiple lines, which will be required for certain workflows. A built in tutorial for VIM is included in MacOS terminal by running the command ```vimtutor```.
 
