@@ -7,9 +7,15 @@
 
 ### BigCommerce Dashboard
 *   Click on `Storefront` > `My Themes` 
+![BC Dashboard](img/bc-dashboard.png)
+
 *   Select `Upload Theme`
+![BC Upload Theme](img/bc-uploadtheme.png)
+
 *   Go to BC folder inside of `ProjectSail` directory
 *   Select your theme
+![ProjectSail Directory](img/projectsail-directory.png)
+
 *   Once theme is uploaded, rename to Cornerstone TJ-{MMDDYY}
 *   Apply theme
 
