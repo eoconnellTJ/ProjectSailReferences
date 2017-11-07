@@ -1,5 +1,9 @@
 # Developer Workflow
 This doc serves to clarify the procedures required once you get assigned, or pick up a ticket from the backlog or active sprint up until the ticket is solved. In a nutshell:
+
+ ![Snapshot of workflow](img/workflow.png)
+
+
   1. ### Assign Ticket:
     *   Look over requirements and success criteria listed on the ticket and clarify any details with the reporter or QA
   <!-- add pics/links to the step below -->
@@ -37,7 +41,7 @@ This doc serves to clarify the procedures required once you get assigned, or pic
 
     *   [Stencil Bundle Walkthrough](https://github.com/eoconnellTJ/ProjectSailReferences/blob/master/stencil_bundle.md)
 
-  9. ##Finally:
+  9. ### Finally:
     *   If the changes are **approved** by Visual QA, the ticket moves from `'Visual QA'` to `'Done'`, and 
     *   If **rejected** the ticket moves back to `'In Progress'`, at which point you repeat steps **2-8**
 
