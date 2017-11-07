@@ -1,9 +1,12 @@
 # Developer Workflow
 This doc serves to clarify the procedures required once you get assigned, or pick up a ticket from the backlog or active sprint up until the ticket is solved. In a nutshell:
-  1. ### Assign Ticket: Look over requirements and success criteria listed on the ticket and clarify any details with the reporter or QA
+  1. ### Assign Ticket
+    Look over requirements and success criteria listed on the ticket and clarify any details with the reporter or QA
   <!-- add pics/links to the step below -->
-  2. Create Branch: `git checkout -b PS-1` or with an alias like example below. Make a git branch for the ticket and push the branch to remote; make sure to follow naming conventions to invoke JIRA trigger from `'To Do'` to `'In Progress'`
-    * Once branch is created, Jira will be triggered to set status from `To Do` to `In Progress`
+  2. ### Create Branch: 
+    *   From the 'initial_launch' or freshest possible branch, create new branch for the specific ticket `git checkout -b PS-1` or with an alias like example below. 
+    *   Make a git branch for the ticket and push the branch to remote; make sure to follow naming conventions to invoke JIRA trigger from `'To Do'` to `'In Progress'`
+    *   Once branch is created, Jira will be triggered to set status from `To Do` to `In Progress`
   ![Create Branch](img/create-branch.png)
 
   3. Work on Ticket: Follow the workflow conventions for commit procedures to trigger JIRA events and leave a paper trail for anyone following and/or collaborating on the same issue
