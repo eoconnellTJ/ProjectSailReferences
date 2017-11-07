@@ -2,15 +2,16 @@
 
 ### From the Command Line
 *   pull in all new changes
-*   run `stencil bundle` which bundles and gives path to file
-*   then,
+*   When branch has been reviewed and ready to package:
+*   In the command line run `stencil bundle` which bundles and gives path to file
+
 
 ### BigCommerce Dashboard
 *   Click on `Storefront` > `My Themes` 
-![BC Dashboard](img/bc-dashboard.png)
+*   ![BC Dashboard](img/bc-dashboard.png)
 
 *   Select `Upload Theme`
-![BC Upload Theme](img/bc-uploadtheme.png)
+*   ![BC Upload Theme](img/bc-uploadtheme.png)
 
 *   Go to BC folder inside of `ProjectSail` directory
 *   Select your theme
