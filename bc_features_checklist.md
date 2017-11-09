@@ -35,3 +35,9 @@ When testing new features and branches, be sure to reference the items below mak
     *   Can be found `global/tj-js/headerSizing.js`
     *   When user scrolls the search tab should be removed from view
     *   If user scrolls back to top the search option should appear
+10. ### Color Swatches
+    *   Can be found `ey-scripts`
+    *   Color choice should be pre-selected when arrving to PDP
+    *   Thumbnail choices will change the color/image of default image
+11. ### Currency Disclaimer 
+    *   Any currency other than US should provide a disclaimer on the cart checkout page
